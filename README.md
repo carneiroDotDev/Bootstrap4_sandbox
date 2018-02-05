@@ -7,7 +7,7 @@ https://luuizpaulo.github.io/Bootstrap4_sandbox/
 
 <p align="center"> 
   <br>
-  [<img src="bootstrap4.jpg" alt="Check all the effects possible with Bootstrap 4" width='550' height='300'>](https://luuizpaulo.github.io/Bootstrap4_sandbox/)
+  <img src="bootstrap4.jpg" alt="Check all the effects possible with Bootstrap 4" width='550' height='300'>
   <br>
 </p>
 
